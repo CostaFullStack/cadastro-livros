@@ -1,0 +1,21 @@
+================= //HTML// =================
+
+* INDEX * 
+- Terá "h1" cadastro de filmes e com a tag "u". Dentro da tag "u", "a" com "li" com os nomes: "adicionar filmes", "listar filmes", "buscar filmes" e "classificar filmes"
+
+- Clicando em "adicionar filmes", vai me levar para a página do formulário.
+
+* ADICIONAR FILMES * 
+- Terá um "h1" cadastrar filmes e um form com label e input, required neles com "titulo", "diretor", "genero", "ano de lancamento" e "avaliacao"
+
+* LISTAR FILMES *
+- Terá "h1" filmes cadastrados section com id resultado, que armazenará os cards dos filmes cadastrados
+
+* BUSCAR FILMES *
+- Terá um "h1" procurar filmes, com um input "digite o ID do filme"
+
+* AVALIAR FILMES *
+- Terá "h1" filmes cadastrados section com id resultado, que armazenará os cards dos filmes cadastrados e nele será feita avaliações. Posso colocar para pesquisar o filme, e aparecendo apareça dentro do card um botão de "avaliar filme"
+
+
+TODOS, TIRANDO O INDEX, COM OPÇÕES PARA VOLTAR PARA O INDEX!
